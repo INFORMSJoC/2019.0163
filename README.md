@@ -3,7 +3,7 @@
 # Seamless Multimodal Transportation Scheduling
 
 This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [AGPL License](LICENSE.md).
 
 The data in this repository exemplifies the data
 that was used in the research reported in the paper 
