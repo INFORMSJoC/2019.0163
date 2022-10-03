@@ -13,7 +13,7 @@ Seamless Multimodal Transportation Scheduling by A.U. Raghunathan, D. Bergman, J
 
 ## Cite
 
-To cite this repository, please cite the [paper - TODO: Update URL](https://arxiv.org/abs/1807.09676) using its DOI.
+To cite this repository, please cite the paper using its DOI.
 
 Below is the BibTex for citing the paper.
 
