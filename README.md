@@ -3,11 +3,11 @@
 # Seamless Multimodal Transportation Scheduling
 
 This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [AGPL License](LICENSE.md).
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [CC-BY-ND-4.0 License](https://creativecommons.org/licenses/by-nd/4.0/).
 
 The data in this repository exemplifies the data
 that was used in the research reported in the paper 
-[Seamless Multimodal Transportation Scheduling - TODO: Update URL](https://arxiv.org/abs/1807.09676) by A.U. Raghunathan, D. Bergman, J.N. Hooker, T. Serra, and S. Kobori. 
+Seamless Multimodal Transportation Scheduling by A.U. Raghunathan, D. Bergman, J.N. Hooker, T. Serra, and S. Kobori. 
 
 **Important: The actual data used in the paper can be found in MERL's repository [https://www.merl.com/pub/raghunathan/LastMile-TestSet/]**
 
