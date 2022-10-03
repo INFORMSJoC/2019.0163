@@ -13,18 +13,20 @@ Seamless Multimodal Transportation Scheduling by A.U. Raghunathan, D. Bergman, J
 
 ## Cite
 
-To cite this repository, please cite the paper using its DOI.
+To cite this software, please cite the [paper - TODO: change link](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
 
-Below is the BibTex for citing the paper.
+[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+
+Below is the BibTex for citing this version of the repository.
 
 ```
-@article{Seamless,
+@article{CacheTest,
   author =        {A.U. Raghunathan and D. Bergman and J.N. Hooker and T. Serra and S. Kobori},
   publisher =     {INFORMS Journal on Computing},
-  title =         {Seamless Multimodal Transportation Scheduling},
+  title =         {Seamless Multimodal Transportation Scheduling - Repository},
   year =          {2022},
   doi =           {TBD},
-  url =           {https://github.com/thserra/IJoC-Seamless},
+  url =           {TBD},
 }  
 ```
 
