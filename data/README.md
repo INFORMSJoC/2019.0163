@@ -1,3 +1,11 @@
-# Data for replication
+# MERL Last Mile Example
 
-Here is the data needed for replicating the experiments. 
+This document describes a small example following the structure of the MERL Last Mile Problem Set (https://www.merl.com/pub/raghunathan/LastMile-TestSet/).
+
+In this example, we consider a problem with two origins, two destinations, three passengers, and an arrival time window of 15 time units. This example is described using three files: merl_lastmile_demand_3_2_15_1.txt, merl_lastmile_arrivals_3_2.txt, and merl_lastmile_network_3_2.txt.
+
+The file merl_lastmile_demand_3_2_15_1.txt describes the requests of three passengers for traveling from two stations of mass transportation service, designated as 1 and 2, to two destinations, designated as 1 and 2. The first passenger goes from station 1 to destination 1 with a desired arrival between time 10 and time 25. The second passenger goes from station 1 to destination 2 with a desired arrival between time 22 and time 37. The third passenger goes from station 2 to destination 2 with a desired arrival between time 25 and time 40.
+
+The file merl_lastmile_arrivals_3_2.txt describes a mass transportation service bringing passengers from two stations of origin, designated as 1 and 2, to the alightning terminal, designated as 0. There is a service leaving station 1 at time 0, passing through station 2 at time 5, and then arriving at the alightning terminal at time 10. Two similar services leave station 1 at times 10 and 20, respectivelly passing through station 2 at time 15 and 25, and then arriving at the alightning terminal at time 20 and 30.
+
+The file merl_lastmile_network_3_2.txt describes routes between the alightning terminal, designated as 0, and the two destinations, designated as 1 and 2, which consist of visiting either of those stations first and then the other station next. The first route, designated as 0, starts at the alightning terminal, reaches station 1 after 3 time units, then arrives at station 2 after another 5 time units, and then takes 4 time units to return to the alightning terminal. The second route, designated as 1, starts at the alightning terminal, reaches station 2 after 4 time units, then arrives at station 1 after another 5 time units, and then takes 3 time units to return to the alightning terminal. The loading and unloading of passengers in the last mile service is described as taking 7 time units. 
