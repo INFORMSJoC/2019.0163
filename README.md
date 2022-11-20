@@ -15,7 +15,9 @@ Seamless Multimodal Transportation Scheduling by A.U. Raghunathan, D. Bergman, J
 
 To cite this software, please cite the [paper - TODO: change link](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
 
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+
+
+[![DOI](https://zenodo.org/badge/512287402.svg)](https://zenodo.org/badge/latestdoi/512287402)
 
 Below is the BibTex for citing this version of the repository.
 
