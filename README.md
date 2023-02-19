@@ -27,7 +27,7 @@ Below is the BibTex for citing this version of the repository.
   publisher =     {INFORMS Journal on Computing},
   title =         {Seamless Multimodal Transportation Scheduling - Repository},
   year =          {2022},
-  doi =           {TBD},
+  doi =           {10.5281/zenodo.7339846},
   url =           {TBD},
 }  
 ```
