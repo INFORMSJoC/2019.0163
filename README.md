@@ -28,7 +28,7 @@ Below is the BibTex for citing this version of the repository.
   title =         {Seamless Multimodal Transportation Scheduling - Repository},
   year =          {2022},
   doi =           {10.5281/zenodo.7339846},
-  url =           {TBD},
+  url =           {https://github.com/INFORMSJoC/2019.0163},
 }  
 ```
 
