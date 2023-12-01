@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [CC-BY-ND-4.0 
 
 The data in this repository exemplifies the data
 that was used in the research reported in the paper 
-Seamless Multimodal Transportation Scheduling by A.U. Raghunathan, D. Bergman, J.N. Hooker, T. Serra, and S. Kobori. 
+[Seamless Multimodal Transportation Scheduling](https://pubsonline.informs.org/doi/10.1287/ijoc.2019.0163) by A.U. Raghunathan, D. Bergman, J.N. Hooker, T. Serra, and S. Kobori. 
 
 **Important: The actual data used in the paper can be found in MERL's repository [https://www.merl.com/pub/raghunathan/LastMile-TestSet/]**
 
